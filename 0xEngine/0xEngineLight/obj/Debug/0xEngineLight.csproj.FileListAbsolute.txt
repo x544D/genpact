@@ -1,0 +1,10 @@
+C:\Users\544D\source\repos\0xEngine\0xEngineLight\bin\Debug\0xEngineLight.exe.config
+C:\Users\544D\source\repos\0xEngine\0xEngineLight\bin\Debug\0xEngineLight.exe
+C:\Users\544D\source\repos\0xEngine\0xEngineLight\bin\Debug\0xEngineLight.pdb
+C:\Users\544D\source\repos\0xEngine\0xEngineLight\obj\Debug\0xEngineLight.csprojAssemblyReference.cache
+C:\Users\544D\source\repos\0xEngine\0xEngineLight\obj\Debug\_0xEngineLight.Form1.resources
+C:\Users\544D\source\repos\0xEngine\0xEngineLight\obj\Debug\_0xEngineLight.Properties.Resources.resources
+C:\Users\544D\source\repos\0xEngine\0xEngineLight\obj\Debug\0xEngineLight.csproj.GenerateResource.cache
+C:\Users\544D\source\repos\0xEngine\0xEngineLight\obj\Debug\0xEngineLight.csproj.CoreCompileInputs.cache
+C:\Users\544D\source\repos\0xEngine\0xEngineLight\obj\Debug\0xEngineLight.exe
+C:\Users\544D\source\repos\0xEngine\0xEngineLight\obj\Debug\0xEngineLight.pdb

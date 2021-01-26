@@ -1,0 +1,33 @@
+﻿
+
+PROCESSES :
+	- Remove ListView and replace ith DGV
+	- DGV broderStyle aykoon lines Deviders Horizontal only
+	- DGV [ id - name - Checked | unchecked ]
+	- DGV [double click  | next ] + check if it still exists .
+	- SHOW MyMsgBox yla ma kan selectiona ta proc or proc not exists
+	- Ajout dyal 1 env Variable  "string ProcSelected = null "  > Ghadi nstocker fiha selected proc f processes UC 
+	- Selection dyal ProcSelected's value mn list d procs
+	
+
+
+CTABLES :
+	- Save in local file (last 5 opened ct)
+	- (( FINISHED )) load list of last 5 opened ct files with click handle to open if exists (UserControl Show at start only)
+	- probably change style of check / uncheck + audio
+	- Add Delete row / can change script name
+	- loading each cheat with my ids starting from 1 ...
+
+
+ENGINE :
+	- in ExtractAsm(string asm) => we still need to get one more thing which is Fake bytes to inject
+
+
+
+ASM_CLASS :
+	- public abstract void ActivateCheat();
+    - public abstract void Deactivate();
+
+
+SETTINGS :
+	- option to load a script file automatically if an x process is selected

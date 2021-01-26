@@ -1,0 +1,25 @@
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\bin\Debug\GenPactLauncher.exe.config
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\bin\Debug\GenPactLauncher.exe
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\bin\Debug\GenPactLauncher.pdb
+C:\Users\544D\source\repos\GenPact t00l\x64\Debug\GenPactLauncher.exe.config
+C:\Users\544D\source\repos\GenPact t00l\x64\Debug\GenPactLauncher.exe
+C:\Users\544D\source\repos\GenPact t00l\x64\Debug\GenPactLauncher.pdb
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.csproj.CoreCompileInputs.cache
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.exe
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.pdb
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.csprojAssemblyReference.cache
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Debug\GenPactLauncher.exe.config
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Debug\GenPactLauncher.exe
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Debug\GenPactLauncher.pdb
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.exe
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.pdb
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.csprojAssemblyReference.cache
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Thesa\source\repos\GenPact t00l\x64\Debug\GenPactLauncher.exe.config
+C:\Users\Thesa\source\repos\GenPact t00l\x64\Debug\GenPactLauncher.exe
+C:\Users\Thesa\source\repos\GenPact t00l\x64\Debug\GenPactLauncher.pdb
+C:\Users\Thesa\source\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.csprojAssemblyReference.cache
+C:\Users\Thesa\source\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Thesa\source\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.exe
+C:\Users\Thesa\source\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.pdb
+C:\Users\Thesa\source\repos\GenPact t00l\GenPactLauncher\obj\Debug\GenPactLauncher.csproj.CopyComplete

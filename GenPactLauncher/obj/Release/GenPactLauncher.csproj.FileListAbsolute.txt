@@ -1,0 +1,16 @@
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\bin\Release\GenPactLauncher.exe.config
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\bin\Release\GenPactLauncher.exe
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\bin\Release\GenPactLauncher.pdb
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\obj\Release\GenPactLauncher.csproj.CoreCompileInputs.cache
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\obj\Release\GenPactLauncher.exe
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\obj\Release\GenPactLauncher.pdb
+C:\Users\544D\source\repos\GenPact t00l\GenPactLauncher\obj\Release\GenPactLauncher.csprojAssemblyReference.cache
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactLauncher\bin\Release\GenPactLauncher.exe.config
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactLauncher\bin\Release\GenPactLauncher.exe
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactLauncher\bin\Release\GenPactLauncher.pdb
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Release\GenPactLauncher.exe.config
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Release\GenPactLauncher.exe
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Release\GenPactLauncher.pdb
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactLauncher\obj\Release\GenPactLauncher.csproj.CoreCompileInputs.cache
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactLauncher\obj\Release\GenPactLauncher.exe
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactLauncher\obj\Release\GenPactLauncher.pdb

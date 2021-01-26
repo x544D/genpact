@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{49DA3565-9775-430F-A560-212B0ED8C5D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GenPact</RootNamespace>
+    <AssemblyName>lsass</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>..\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>avatar40005.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenPactCtrls.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GenPactMem.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="__\AndroidVersionUc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__\AndroidVersionUc.Designer.cs">
+      <DependentUpon>AndroidVersionUc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__\GenGineUc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__\GenGineUc.Designer.cs">
+      <DependentUpon>GenGineUc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__\HomeUc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__\HomeUc.Designer.cs">
+      <DependentUpon>HomeUc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__\SettingsUc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__\SettingsUc.Designer.cs">
+      <DependentUpon>SettingsUc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__\SpeedUc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__\SpeedUc.Designer.cs">
+      <DependentUpon>SpeedUc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__\Sub_Panel_Features_Ucs\built_in_Features.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__\Sub_Panel_Features_Ucs\built_in_Features.Designer.cs">
+      <DependentUpon>built_in_Features.cs</DependentUpon>
+    </Compile>
+    <Compile Include="__\Sub_Panel_Features_Ucs\FlyHckUc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="__\Sub_Panel_Features_Ucs\FlyHckUc.Designer.cs">
+      <DependentUpon>FlyHckUc.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="__\AndroidVersionUc.resx">
+      <DependentUpon>AndroidVersionUc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__\GenGineUc.resx">
+      <DependentUpon>GenGineUc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__\HomeUc.resx">
+      <DependentUpon>HomeUc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__\SettingsUc.resx">
+      <DependentUpon>SettingsUc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__\SpeedUc.resx">
+      <DependentUpon>SpeedUc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__\Sub_Panel_Features_Ucs\built_in_Features.resx">
+      <DependentUpon>built_in_Features.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="__\Sub_Panel_Features_Ucs\FlyHckUc.resx">
+      <DependentUpon>FlyHckUc.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="avatar40005.ico" />
+    <None Include="Resources\chestTreasure.png" />
+    <None Include="Resources\hpBar.png" />
+    <None Include="Resources\levels.png" />
+    <None Include="Resources\eye.png" />
+    <None Include="Resources\esp.png" />
+    <None Include="Resources\toggleon.png" />
+    <None Include="Resources\toggleoff.png" />
+    <None Include="Resources\settings.png" />
+    <None Include="Resources\maintenance.png" />
+    <None Include="Resources\zoom.png" />
+    <None Include="Resources\Teleport.png" />
+    <None Include="Resources\bow_reload.png" />
+    <None Include="Resources\rapidFire.png" />
+    <None Include="Resources\Others.png" />
+    <None Include="Resources\wings.png" />
+    <None Include="Resources\home_splash.png" />
+    <None Include="Resources\sound_en_lang.wav" />
+    <None Include="Resources\es.png" />
+    <None Include="Resources\sound_fr_lang.wav" />
+    <None Include="Resources\sound_cn_lang.wav" />
+    <None Include="Resources\sound_de_lang.wav" />
+    <None Include="Resources\sound_es_lang.wav" />
+    <None Include="Resources\sound_kr_lang.wav" />
+    <None Include="Resources\sound_ar_lang.wav" />
+    <None Include="Resources\sound_ar_lang.mp3" />
+    <None Include="Resources\sound_japanese_lang.wav" />
+    <None Include="Resources\sound_under_dev.wav" />
+    <None Include="Resources\sound_you_dumb_fuck.wav" />
+    <None Include="Resources\sound_UltiCD_off.wav" />
+    <None Include="Resources\sound_UltiCD_on.wav" />
+    <None Include="Resources\sound_Sound_off.wav" />
+    <None Include="Resources\sound_Sound_on.wav" />
+    <None Include="Resources\sound_SkillCD_off.wav" />
+    <None Include="Resources\sound_SkillCD_on.wav" />
+    <None Include="Resources\sound_SkillCD_on.mp3" />
+    <None Include="Resources\mp3_Sound_on.mp3" />
+    <None Include="Resources\Sound_on.mp3" />
+    <None Include="Resources\sound_off.png" />
+    <None Include="Resources\sound_on.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\howto.png" />
+    <None Include="Resources\keyboard.png" />
+    <None Include="Resources\off.png" />
+    <None Include="Resources\on.png" />
+    <None Include="Resources\german.png" />
+    <None Include="Resources\infos.png" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\clear.png" />
+    <None Include="Resources\Arabs.png" />
+    <None Include="Resources\korea.png" />
+    <None Include="Resources\japan.png" />
+    <None Include="Resources\china.png" />
+    <None Include="Resources\usa.png" />
+    <None Include="Resources\maroc.png" />
+    <None Include="Resources\france.png" />
+    <None Include="Resources\infinity.png" />
+    <None Include="Resources\android.png" />
+    <None Include="Resources\cpu.png" />
+    <None Include="Resources\godMod.png" />
+    <None Include="Resources\1hkill.png" />
+    <None Include="Resources\box2.png" />
+    <None Include="Resources\box.png" />
+    <None Include="Resources\chest.png" />
+    <None Include="Resources\clock.png" />
+    <None Include="Resources\run.png" />
+    <None Include="Resources\resume.png" />
+    <None Include="Resources\pause.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

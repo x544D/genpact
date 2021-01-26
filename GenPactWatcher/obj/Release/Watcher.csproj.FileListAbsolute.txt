@@ -1,0 +1,9 @@
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactWatcher\bin\Release\Watcher.exe.config
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactWatcher\bin\Release\Watcher.exe
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactWatcher\bin\Release\Watcher.pdb
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Release\Watcher.exe.config
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Release\Watcher.exe
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Release\Watcher.pdb
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactWatcher\obj\Release\Watcher.csproj.CoreCompileInputs.cache
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactWatcher\obj\Release\Watcher.exe
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactWatcher\obj\Release\Watcher.pdb

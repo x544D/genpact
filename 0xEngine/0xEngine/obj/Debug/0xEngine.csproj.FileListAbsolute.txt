@@ -1,0 +1,15 @@
+c:\users\544d\source\repos\0xEngine\0xEngine\bin\Debug\0xEngine.exe.config
+c:\users\544d\source\repos\0xEngine\0xEngine\bin\Debug\0xEngine.exe
+c:\users\544d\source\repos\0xEngine\0xEngine\bin\Debug\0xEngine.pdb
+c:\users\544d\source\repos\0xEngine\0xEngine\obj\Debug\0xEngine.csprojAssemblyReference.cache
+c:\users\544d\source\repos\0xEngine\0xEngine\obj\Debug\_0xEngine.Form1.resources
+c:\users\544d\source\repos\0xEngine\0xEngine\obj\Debug\_0xEngine.Properties.Resources.resources
+c:\users\544d\source\repos\0xEngine\0xEngine\obj\Debug\0xEngine.csproj.GenerateResource.cache
+c:\users\544d\source\repos\0xEngine\0xEngine\obj\Debug\0xEngine.csproj.CoreCompileInputs.cache
+c:\users\544d\source\repos\0xEngine\0xEngine\obj\Debug\0xEngine.exe
+c:\users\544d\source\repos\0xEngine\0xEngine\obj\Debug\0xEngine.pdb
+C:\Users\544D\source\repos\0xEngine\0xEngine\obj\Debug\_0xEngine.ucs.MyMsgBox.resources
+C:\Users\544D\source\repos\0xEngine\0xEngine\obj\Debug\_0xEngine.ucs.processes.resources
+C:\Users\544D\source\repos\0xEngine\0xEngine\obj\Debug\_0xEngine.ucs.ctables.resources
+C:\Users\544D\source\repos\0xEngine\0xEngine\obj\Debug\_0xEngine.ucs.bots.resources
+C:\Users\544D\source\repos\0xEngine\0xEngine\obj\Debug\_0xEngine.ucs.recent_Opened_Cts.resources

@@ -1,0 +1,10 @@
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\GenPactWatcher.csprojAssemblyReference.cache
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\GenPactWatcher.csproj.CoreCompileInputs.cache
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\bin\Debug\GenPactWatcher.exe.config
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\bin\Debug\GenPactWatcher.exe
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\bin\Debug\GenPactWatcher.pdb
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\GenPactWatcher.exe
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\GenPactWatcher.pdb
+C:\Users\544D\source\repos\GenPact t00l\x64\Debug\GenPactWatcher.exe.config
+C:\Users\544D\source\repos\GenPact t00l\x64\Debug\GenPactWatcher.exe
+C:\Users\544D\source\repos\GenPact t00l\x64\Debug\GenPactWatcher.pdb

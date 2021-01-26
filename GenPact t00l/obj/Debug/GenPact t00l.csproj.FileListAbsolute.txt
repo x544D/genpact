@@ -1,0 +1,10 @@
+C:\Users\544D\source\repos\GenPact t00l\GenPact t00l\bin\Debug\GenPact t00l.exe.config
+C:\Users\544D\source\repos\GenPact t00l\GenPact t00l\bin\Debug\GenPact t00l.exe
+C:\Users\544D\source\repos\GenPact t00l\GenPact t00l\bin\Debug\GenPact t00l.pdb
+C:\Users\544D\source\repos\GenPact t00l\GenPact t00l\obj\Debug\GenPact t00l.csprojAssemblyReference.cache
+C:\Users\544D\source\repos\GenPact t00l\GenPact t00l\obj\Debug\GenPact_t00l.Form1.resources
+C:\Users\544D\source\repos\GenPact t00l\GenPact t00l\obj\Debug\GenPact_t00l.Properties.Resources.resources
+C:\Users\544D\source\repos\GenPact t00l\GenPact t00l\obj\Debug\GenPact t00l.csproj.GenerateResource.cache
+C:\Users\544D\source\repos\GenPact t00l\GenPact t00l\obj\Debug\GenPact t00l.csproj.CoreCompileInputs.cache
+C:\Users\544D\source\repos\GenPact t00l\GenPact t00l\obj\Debug\GenPact t00l.exe
+C:\Users\544D\source\repos\GenPact t00l\GenPact t00l\obj\Debug\GenPact t00l.pdb

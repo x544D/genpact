@@ -1,0 +1,21 @@
+C:\Users\544D\source\repos\GenPact t00l\x64\Debug\Watcher.exe.config
+C:\Users\544D\source\repos\GenPact t00l\x64\Debug\Watcher.exe
+C:\Users\544D\source\repos\GenPact t00l\x64\Debug\Watcher.pdb
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.csproj.CoreCompileInputs.cache
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.exe
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.pdb
+C:\Users\544D\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.csprojAssemblyReference.cache
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Debug\Watcher.exe.config
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Debug\Watcher.exe
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Debug\Watcher.pdb
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.csprojAssemblyReference.cache
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.exe
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.pdb
+D:\VS2019 PROJ\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.csproj.CoreCompileInputs.cache
+C:\Users\Thesa\source\repos\GenPact t00l\x64\Debug\Watcher.exe.config
+C:\Users\Thesa\source\repos\GenPact t00l\x64\Debug\Watcher.exe
+C:\Users\Thesa\source\repos\GenPact t00l\x64\Debug\Watcher.pdb
+C:\Users\Thesa\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.csprojAssemblyReference.cache
+C:\Users\Thesa\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.csproj.CoreCompileInputs.cache
+C:\Users\Thesa\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.exe
+C:\Users\Thesa\source\repos\GenPact t00l\GenPactWatcher\obj\Debug\Watcher.pdb

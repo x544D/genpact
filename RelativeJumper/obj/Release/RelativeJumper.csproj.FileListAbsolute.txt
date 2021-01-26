@@ -1,0 +1,9 @@
+D:\VS2019 PROJ\repos\GenPact t00l\RelativeJumper\bin\Release\RelativeJumper.exe.config
+D:\VS2019 PROJ\repos\GenPact t00l\RelativeJumper\bin\Release\RelativeJumper.exe
+D:\VS2019 PROJ\repos\GenPact t00l\RelativeJumper\bin\Release\RelativeJumper.pdb
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Release\RelativeJumper.exe.config
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Release\RelativeJumper.exe
+D:\VS2019 PROJ\repos\GenPact t00l\x64\Release\RelativeJumper.pdb
+D:\VS2019 PROJ\repos\GenPact t00l\RelativeJumper\obj\Release\RelativeJumper.csproj.CoreCompileInputs.cache
+D:\VS2019 PROJ\repos\GenPact t00l\RelativeJumper\obj\Release\RelativeJumper.exe
+D:\VS2019 PROJ\repos\GenPact t00l\RelativeJumper\obj\Release\RelativeJumper.pdb
